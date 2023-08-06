@@ -1,0 +1,33 @@
+2023-08-06 03:31:32.587523 - Initialized conversion of CBT341
+2023-08-06 03:31:32.770317 - Received CBT.V505.FILE341.PDS from FILE341.XMI 
+2023-08-06 03:31:32.772854 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:31:32.773790 - Found $$$HIST.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/$$$HIST
+2023-08-06 03:31:32.774787 - Found $$DOC.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/$$DOC
+2023-08-06 03:31:32.775771 - Found $NOTES.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/$NOTES
+2023-08-06 03:31:32.776815 - Found @FILE341.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/@FILE341
+2023-08-06 03:31:32.777672 - Found BEGIN.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/BEGIN
+2023-08-06 03:31:32.778528 - Found BOT.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/BOT
+2023-08-06 03:31:32.779485 - Found COMP.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/COMP
+2023-08-06 03:31:32.780368 - Found COND.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/COND
+2023-08-06 03:31:32.781201 - Found DO.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/DO
+2023-08-06 03:31:32.782134 - Found DOCELLS.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/DOCELLS
+2023-08-06 03:31:32.782972 - Found DOEND.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/DOEND
+2023-08-06 03:31:32.783781 - Found DOOUT.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/DOOUT
+2023-08-06 03:31:32.784578 - Found ELSE.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/ELSE
+2023-08-06 03:31:32.785420 - Found EXIT.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/EXIT
+2023-08-06 03:31:32.786229 - Found FINISH.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/FINISH
+2023-08-06 03:31:32.787017 - Found IF.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/IF
+2023-08-06 03:31:32.787818 - Found IFEND.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/IFEND
+2023-08-06 03:31:32.788605 - Found ISAMCSA.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/ISAMCSA
+2023-08-06 03:31:32.789494 - Found LAMDA.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/LAMDA
+2023-08-06 03:31:32.790483 - Found OPANALY.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/OPANALY
+2023-08-06 03:31:32.791451 - Found OPTYANAL.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/OPTYANAL
+2023-08-06 03:31:32.792313 - Found PACCVT.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/PACCVT
+2023-08-06 03:31:32.793126 - Found PACDIR.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/PACDIR
+2023-08-06 03:31:32.794012 - Found PACEQU.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/PACEQU
+2023-08-06 03:31:32.794952 - Found SAVEAREA.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/SAVEAREA
+2023-08-06 03:31:32.795783 - Found SAVEGPRS.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/SAVEGPRS
+2023-08-06 03:31:32.796570 - Found SETAMODE.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/SETAMODE
+2023-08-06 03:31:32.797414 - Found STRCHECK.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/STRCHECK
+2023-08-06 03:31:32.798371 - Found TOP.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/TOP
+2023-08-06 03:31:32.799308 - Found WHILE.txt (text/plain) in CBT.V505.FILE341.PDS, moved to PDS/WHILE
